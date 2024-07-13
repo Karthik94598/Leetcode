@@ -1,4 +1,3 @@
-
 class Solution:
     def isPalindrome(self, x: int) -> bool:
         # If the number is negative, it's not a palindrome
